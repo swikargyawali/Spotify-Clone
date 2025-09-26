@@ -1,0 +1,9 @@
+*{
+    font-family: 'Montserrat', sans-serif;
+    font-weight: 400; /* base */
+    margin: 0; /*To avoid extra space */
+    background-color: black;
+    color: white;
+    overflow: hidden; 
+    /* Kind of slide bar */
+}
